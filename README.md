@@ -26,6 +26,6 @@ Apply several different supervised machine learning techniques to this data set,
 * XGBoost Classifier
 * SVM
 * Bagging Classifier
-* AdaBoost Classife
+* AdaBoost Classifier
 
 The main idea behind this exercise is to get a general methodology (this could be easily used in other classification problems) to choose the best classifier once the data is cleaned and ready to use.
